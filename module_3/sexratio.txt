@@ -1,0 +1,228 @@
+country	city	At birth	0–14 years	15–24 years	25–54 years	55–64 years	Over 65	Total
+Afghanistan	Kabul	1.05	1.03	1.03	1.03	0.97	0.85	1.03
+Albania	Tirana	1.08	1.11	1.09	0.93	0.95	0.87	0.98
+Algeria	Algiers	1.05	1.05	1.05	1.03	1.01	0.89	1.03
+American Samoa(US)	Tafuna	1.06	1.06	1.01	0.98	0.96	0.86	1.00
+Andorra	Andorra la Vella	1.07	1.06	1.06	1.04	1.12	1.03	1.06
+Angola	Luanda	1.03	0.99	0.95	0.91	0.89	0.72	0.95
+Anguilla(UK)	North Side	1.03	1.04	1.02	0.81	0.79	0.98	0.90
+Antigua and Barbuda	St. John's	1.05	1.03	0.99	0.85	0.80	0.75	0.89
+Argentina	Buenos Aires	1.07	1.06	1.05	1.00	0.94	0.73	0.98
+Armenia	Yerevan	1.10	1.12	1.10	0.97	0.85	0.68	0.95
+Aruba(Netherlands)	Oranjestad	1.02	1.01	1.01	0.93	0.88	0.65	0.90
+Australia	Sydney	1.06	1.06	1.09	0.99	0.93	0.86	0.99
+Austria	Vienna	1.05	1.05	1.03	1.00	0.99	0.78	0.96
+Azerbaijan	Baku	1.06	1.13	1.14	0.98	0.84	0.64	0.98
+Bahrain	Manama	1.03	1.03	1.31	1.87	1.67	1.04	1.53
+Bangladesh	Dhaka	1.04	1.04	1.00	0.92	0.97	0.89	0.97
+Barbados	Bridgetown	1.01	1.00	0.98	0.99	0.91	0.70	0.94
+Belarus	Minsk	1.06	1.06	1.06	0.98	0.79	0.48	0.87
+Belgium	Brussels	1.05	1.05	1.04	1.02	0.99	0.78	0.97
+Belize	Belize City	1.05	1.04	1.07	0.95	0.98	0.94	1.00
+Benin	Cotonou	1.05	1.02	0.99	0.90	0.92	0.84	0.97
+Bermuda(UK)	St. George's	1.02	1.02	1.01	1.01	0.90	0.74	0.94
+Bhutan	Thimphu	1.05	1.05	1.04	1.12	1.15	1.08	1.08
+Bolivia	Santa Cruz de la Sierra	1.05	1.04	1.03	0.97	0.85	0.78	0.98
+Bosnia and Herzegovina	Sarajevo	1.07	1.07	1.07	1.01	0.95	0.67	0.95
+Botswana	Gaborone	1.03	1.02	0.97	0.90	0.76	0.71	0.93
+Brazil	São Paulo	1.05	1.04	1.03	0.99	0.90	0.74	0.97
+Brunei	Bandar Seri Begawan	1.05	1.06	1.00	0.90	0.98	0.95	0.96
+Bulgaria	Sofia	1.06	1.06	1.08	1.06	0.90	0.67	0.95
+Burkina Faso	Ouagadougou	1.03	1.03	1.01	0.87	0.76	0.76	0.96
+Burundi	Bujumbura	1.03	1.01	1.00	0.98	0.87	0.75	0.99
+Cambodia	Phnom Penh	1.05	1.02	0.99	0.96	0.78	0.59	0.95
+Cameroon	Douala	1.03	1.02	1.01	0.97	0.94	0.88	0.99
+Canada	Toronto	1.05	1.06	1.07	1.01	0.98	0.84	0.98
+Cape Verde	Praia	1.03	1.01	1.00	0.95	0.84	0.60	0.95
+Cayman Islands(UK)	George Town	1.02	1.01	1.00	0.95	0.92	0.85	0.95
+Central African Republic	Bangui	1.03	1.01	1.01	1.00	0.92	0.64	0.99
+Chad	N'Djamena	1.04	1.02	1.01	0.93	0.78	0.76	0.98
+Chile	Santiago	1.04	1.04	1.04	1.00	0.90	0.72	0.97
+China	Shanghai	1.11	1.16	1.17	1.05	1.02	0.90	1.06
+Colombia	Bogotá	1.06	1.05	1.04	0.99	0.90	0.72	0.98
+Comoros	Moroni	1.03	1.00	0.94	0.90	0.83	0.81	0.94
+Congo, Democratic Republic of the	Kinshasa	1.03	1.01	1.01	1.00	0.93	0.76	1.00
+Congo, Republic of the	Brazzaville	1.03	1.02	1.01	1.00	1.06	0.81	1.01
+Cook Islands(New Zealand)	Avarua	1.05	1.12	1.15	0.98	1.25	0.94	1.06
+Costa Rica	San José	1.05	1.05	1.04	1.02	0.94	0.85	1.00
+Croatia	Zagreb	1.06	1.06	1.05	1.00	0.94	0.69	0.93
+Cuba	Havana	1.06	1.06	1.08	1.01	0.95	0.83	0.99
+Cyprus	Nicosia	1.05	1.06	1.20	1.13	0.92	0.76	1.05
+Denmark	Copenhagen	1.07	1.06	1.05	1.02	1.00	0.85	0.99
+Djibouti	Djibouti	1.03	1.01	0.89	0.71	0.76	0.80	0.83
+Dominica	Roseau	1.05	1.05	1.06	1.03	1.10	0.85	1.02
+Dominican Republic	Santo Domingo	1.04	1.03	1.03	1.04	1.00	0.89	1.02
+Ecuador	Quito	1.05	1.04	1.04	0.96	0.94	0.89	0.99
+Egypt	Cairo	1.06	1.07	1.07	1.03	1.00	0.92	1.05
+El Salvador	San Salvador	1.05	1.05	1.03	0.87	0.73	0.77	0.92
+Equatorial Guinea	Bata	1.03	1.03	1.04	1.01	0.78	0.70	1.00
+Eritrea	Asmara	1.03	1.01	0.99	0.96	0.84	0.69	0.97
+Estonia	Tallinn	1.05	1.05	1.08	1.04	0.84	0.53	0.88
+Ethiopia	Addis Ababa	1.03	1.01	1.00	0.99	0.97	0.85	1.00
+Fiji	Nasinu	1.05	1.05	1.04	1.05	1.02	0.85	1.03
+Finland	Helsinki	1.05	1.05	1.05	1.05	0.97	0.78	0.97
+France	Paris	1.05	1.05	1.05	1.02	0.93	0.77	0.96
+France	Paris	1.05	1.05	1.05	1.02	0.93	0.77	0.96
+Gabon	Libreville	1.03	1.04	1.09	1.15	1.04	1.00	1.08
+Gambia, The	Serekunda	1.03	1.01	0.98	0.96	0.91	0.85	0.98
+Georgia	Tbilisi	1.05	1.09	1.14	0.97	0.79	0.65	0.92
+Germany	Berlin	1.05	1.06	1.04	1.01	1.00	0.79	0.96
+Germany	Berlin	1.05	1.06	1.04	1.01	1.00	0.79	0.96
+Germany	Berlin	1.05	1.06	1.04	1.01	1.00	0.79	0.96
+Ghana	Accra	1.03	1.01	0.99	0.94	0.95	0.85	0.97
+Gibraltar(UK)	Gibraltar	1.07	1.06	1.07	1.06	0.72	0.93	1.01
+Greece	Athens	1.07	1.07	1.11	0.98	0.90	0.80	0.95
+Greenland(Denmark)	Nuuk	1.05	1.03	1.01	1.10	1.17	1.13	1.08
+Grenada	St. George's	1.10	1.09	1.01	1.04	1.04	0.88	1.03
+Guam(US)	Dededo	1.07	1.07	1.16	1.07	1.05	0.87	1.06
+Guatemala	Guatemala City	1.05	1.04	1.01	0.96	0.87	0.82	0.99
+Guernsey(UK)	Saint Peter Port	1.05	1.06	1.04	1.02	0.98	0.85	0.99
+Guinea	Conakry	1.03	1.02	1.01	1.00	0.94	0.81	1.00
+Guinea-Bissau	Bissau	1.03	1.00	0.96	0.90	0.96	0.74	0.95
+Guyana	Georgetown	1.05	1.04	1.04	1.10	0.88	0.68	1.02
+Haiti	Port-au-Prince	1.01	0.99	1.00	0.98	0.92	0.78	0.98
+Honduras	Tegucigalpa	1.03	1.02	1.00	0.90	0.83	0.80	0.95
+Hungary	Budapest	1.06	1.06	1.07	1.02	0.87	0.62	0.91
+Iceland	Reykjavík	1.05	1.04	1.02	1.03	0.98	0.89	1.00
+India	Mumbai	1.11	1.13	1.14	1.07	1.00	0.89	1.08
+Indonesia	Jakarta	1.05	1.04	1.04	1.05	0.85	0.77	1.00
+Iran	Tehran	1.05	1.05	1.05	1.04	0.96	0.87	1.03
+Iraq	Baghdad	1.05	1.04	1.03	1.00	0.96	0.80	1.01
+Ireland	Dublin	1.06	1.05	1.02	1.01	1.00	0.86	1.00
+Isle of Man(UK)	Douglas	1.08	1.09	1.15	1.00	1.01	0.90	1.00
+Israel	Jerusalem	1.05	1.05	1.04	1.04	0.99	0.82	1.01
+Italy	Rome	1.06	1.05	1.01	0.97	0.94	0.76	0.93
+Italy	Rome	1.06	1.05	1.01	0.97	0.94	0.76	0.93
+Jamaica	Kingston	1.05	1.04	1.02	0.94	0.98	0.90	0.98
+Japan	Tokyo	1.06	1.06	1.11	0.98	1.00	0.78	0.94
+Jersey(UK)	Saint Helier	1.06	1.07	1.06	1.02	0.95	0.74	0.97
+Jordan	Amman	1.06	1.06	1.11	1.18	1.11	0.96	1.11
+Kazakhstan	Almaty	0.94	0.96	1.04	0.97	0.78	0.54	0.91
+Kenya	Nairobi	1.02	1.01	1.00	1.00	0.96	0.84	1.00
+Kiribati	Betio	1.05	1.04	0.97	0.93	0.82	0.64	0.94
+Korea, North	Pyongyang	1.06	1.04	1.01	1.01	0.91	0.53	0.95
+Korea, South	Seoul	1.05	1.06	1.10	1.08	0.96	0.76	1.01
+Kosovo	Pristina	1.08	1.08	1.09	1.12	1.05	0.74	1.06
+Kuwait	Kuwait City	1.05	1.09	1.21	1.69	1.26	0.79	1.38
+Kyrgyzstan	Bishkek	1.07	1.05	1.03	0.97	0.78	0.62	0.96
+Laos	Vientiane	1.04	1.02	0.99	0.98	0.94	0.83	0.99
+Latvia	Riga	1.05	1.06	1.07	1.00	0.82	0.50	0.86
+Lebanon	Beirut	1.05	1.05	1.04	1.03	0.91	0.75	1.00
+Lesotho	Maseru	1.03	1.01	0.92	0.95	1.15	1.07	0.98
+Liberia	Monrovia	1.03	1.02	1.00	0.97	1.03	0.96	1.00
+Libya	Tripoli	1.05	1.04	1.04	1.09	0.97	0.86	1.05
+Liechtenstein	Schaan	1.26	1.21	1.03	1.00	0.93	0.85	0.99
+Lithuania	Vilnius	1.06	1.05	1.07	0.99	0.80	0.52	0.86
+Luxembourg	Luxembourg	1.06	1.06	1.05	1.05	1.05	0.82	1.02
+Luxembourg	Luxembourg	1.06	1.06	1.05	1.05	1.05	0.82	1.02
+Madagascar	Antananarivo	1.03	1.02	1.01	1.00	0.97	0.83	1.00
+Malawi	Lilongwe	1.02	0.99	0.98	0.99	0.93	0.78	0.98
+Malaysia	Kuala Lumpur	1.07	1.06	1.03	1.02	1.03	0.90	1.03
+Maldives	Malé	1.05	1.04	1.27	1.19	0.92	0.81	1.13
+Mali	Bamako	1.03	1.01	0.91	0.85	1.04	0.99	0.95
+Malta	Valletta	1.04	1.07	1.07	1.08	1.01	0.85	1.01
+Marshall Islands	Ebeye	1.05	1.04	1.04	1.04	0.97	0.97	1.03
+Mauritania	Nouakchott	1.03	1.01	0.96	0.87	0.83	0.73	0.93
+Mauritius	Port Louis	1.05	1.04	1.03	1.00	0.91	0.71	0.96
+Mexico	Mexico City	1.05	1.05	1.03	0.94	0.84	0.80	0.96
+Moldova	Chişinău	1.06	1.06	1.08	1.04	0.86	0.66	0.96
+Monaco	Monaco	1.03	1.06	1.09	1.03	0.98	0.80	0.94
+Mongolia	Ulaanbaatar	1.05	1.04	1.03	0.94	0.83	0.67	0.95
+Montenegro	Podgorica	1.04	1.08	1.07	0.99	0.96	0.77	0.97
+Montserrat(UK)	Brades	1.03	1.06	1.10	0.93	0.88	1.26	1.00
+Morocco	Casablanca	1.05	1.04	1.01	0.97	0.99	0.94	1.00
+Mozambique	Maputo	1.03	1.03	1.00	0.87	0.95	0.96	0.97
+Namibia	Windhoek	1.03	1.02	1.00	0.93	0.80	0.74	0.96
+Nauru	Yaren	0.84	0.79	0.85	1.03	0.66	0.56	0.88
+Nepal	Kathmandu	1.06	1.11	1.07	0.82	0.90	0.98	0.96
+Netherlands	Amsterdam	1.05	1.05	1.04	1.01	0.99	0.83	0.98
+New Caledonia(France)	Nouméa	1.05	1.05	1.05	1.02	0.94	0.78	1.00
+New Zealand	Auckland	1.05	1.06	1.07	1.02	0.95	0.88	1.00
+Nicaragua	Managua	1.05	1.04	1.02	0.91	0.85	0.79	0.95
+Niger	Niamey	1.03	1.02	0.97	0.93	0.98	0.92	0.98
+Nigeria	Lagos	1.06	1.04	1.03	1.00	0.96	0.89	1.02
+North Macedonia	Skopje	1.07	1.07	1.07	1.03	0.97	0.78	0.99
+Northern Mariana Islands(US)	San Antonio	1.16	1.17	1.17	1.07	1.19	1.15	1.13
+Norway	Oslo	1.05	1.05	1.05	1.07	1.03	0.87	1.02
+Oman	Muscat	1.05	1.05	1.11	1.33	1.13	0.92	1.18
+Pakistan	Karachi	1.05	1.04	1.05	1.05	1.02	0.86	1.04
+Palau	Koror	1.07	1.07	1.00	1.58	0.58	0.32	1.07
+Panama	Panama City	1.04	1.04	1.04	1.03	0.99	0.84	1.01
+Papua New Guinea	Port Moresby	1.05	1.04	1.03	1.05	1.07	0.96	1.04
+Paraguay	Asunción	1.05	1.04	1.01	1.00	1.03	0.89	1.00
+Peru	Lima	1.05	1.04	1.01	0.92	0.92	0.89	0.96
+Poland	Warsaw	1.06	1.06	1.06	1.02	0.91	0.67	0.94
+Portugal	Lisbon	1.05	1.05	1.06	0.97	0.84	0.66	0.90
+Portugal	Lisbon	1.05	1.05	1.06	0.97	0.84	0.66	0.90
+Puerto Rico(US)	San Juan	1.06	1.04	1.03	0.91	0.85	0.75	0.90
+Qatar	Doha	1.02	1.02	2.42	5.01	3.40	1.89	3.39
+Romania	Bucharest	1.06	1.06	1.05	1.03	0.89	0.68	0.95
+Russia	Moscow	1.06	1.06	1.05	0.97	0.77	0.47	0.86
+Rwanda	Kigali	1.03	1.02	1.01	0.91	0.81	0.67	0.96
+Saint Kitts and Nevis	Basseterre	1.02	1.00	0.94	1.05	1.01	0.89	1.00
+Saint Lucia	Castries	1.06	1.06	1.03	0.93	0.86	0.83	0.95
+Saint Martin(France)	Marigot	1.04	0.99	0.97	0.92	0.88	0.78	0.92
+Saint Pierre and Miquelon(France)	Saint-Pierre	1.06	1.07	1.08	0.94	1.07	0.75	0.94
+Saint Vincent and the Grenadines	Kingstown	1.03	1.02	1.02	1.08	1.08	0.91	1.04
+Samoa	Apia	1.05	1.07	1.06	1.05	1.04	0.78	1.04
+San Marino	Dogana	1.09	1.12	1.10	0.89	0.94	0.82	0.94
+Saudi Arabia	Riyadh	1.05	1.04	1.09	1.52	1.61	1.12	1.30
+Senegal	Dakar	1.03	1.01	0.99	0.86	0.75	0.77	0.94
+Serbia	Belgrade	1.07	1.06	1.07	1.02	0.94	0.72	0.95
+Seychelles	Victoria	1.03	1.06	1.12	1.15	1.02	0.70	1.07
+Sierra Leone	Freetown	1.03	1.00	0.96	0.92	0.90	0.70	0.95
+Singapore	Singapore	1.07	1.05	0.96	0.95	1.00	0.85	0.96
+Sint Maarten(Netherlands)	Lower Prince's Quarter	1.05	1.08	1.04	0.97	0.90	0.89	0.98
+Slovakia	Bratislava	1.07	1.06	1.05	1.02	0.92	0.65	0.94
+Slovenia	Ljubljana	1.04	1.05	1.08	1.11	0.99	0.76	1.00
+Solomon Islands	Honiara	1.05	1.06	1.06	1.04	1.07	0.88	1.04
+Somalia	Mogadishu	1.03	1.00	1.01	1.07	1.05	0.66	1.02
+South Africa	Cape Town	1.02	1.00	0.97	1.02	0.87	0.72	0.98
+South Sudan	Juba	1.05	1.04	1.05	1.05	1.23	1.35	1.06
+Spain	Madrid	1.07	1.06	1.07	1.04	0.96	0.75	0.98
+Spain	Madrid	1.07	1.06	1.07	1.04	0.96	0.75	0.98
+Sri Lanka	Colombo	1.04	1.04	1.04	0.97	0.86	0.73	0.95
+Sudan	Omdurman	1.05	1.03	1.04	0.95	1.04	1.12	1.01
+Suriname	Paramaribo	1.05	1.04	1.04	1.04	0.98	0.78	1.01
+Sweden	Stockholm	1.06	1.06	1.07	1.03	1.01	0.87	1.00
+Switzerland	Zurich	1.06	1.06	1.05	1.00	1.01	0.80	0.98
+Switzerland	Zürich	1.06	1.06	1.05	1.00	1.01	0.80	0.98
+Switzerland	Zürich	1.06	1.06	1.05	1.00	1.01	0.80	0.98
+Syria	Damascus	1.06	1.05	1.00	0.97	0.97	0.88	1.00
+Taiwan	New Taipei	1.06	1.05	1.05	0.99	0.96	0.83	0.97
+Tajikistan	Dushanbe	1.05	1.04	1.03	0.99	0.85	0.70	0.99
+Tanzania	Dar es Salaam	1.03	1.02	1.01	1.01	0.86	0.71	1.00
+Thailand	Bangkok	1.05	1.05	1.04	0.99	0.88	0.77	0.96
+Togo	Lomé	1.03	1.01	1.00	0.99	0.90	0.76	0.98
+Tonga	Nukuʻalofa	1.03	1.03	1.05	0.99	1.04	0.81	1.01
+Trinidad and Tobago	Chaguanas	1.03	1.04	1.09	1.10	1.00	0.78	1.03
+Tunisia	Tunis	1.06	1.07	1.03	0.95	0.98	0.90	0.99
+Turkey	Istanbul	1.05	1.05	1.04	1.03	0.98	0.81	1.01
+Turkmenistan	Ashgabat	1.05	1.03	1.01	0.99	0.88	0.77	0.98
+Tuvalu	Funafuti	1.05	1.05	1.07	1.05	0.70	0.62	0.98
+Uganda	Kampala	1.03	1.02	0.94	0.85	0.85	0.75	0.94
+Ukraine	Kyiv	1.06	1.06	1.05	0.97	0.76	0.51	0.86
+United Arab Emirates	Dubai	1.06	1.07	1.19	3.27	6.05	3.39	2.56
+United Kingdom	London	1.05	1.05	1.05	1.05	0.98	0.82	0.99
+United States	New York	1.05	1.04	1.04	1.01	0.94	0.81	0.97
+Uruguay	Montevideo	1.04	1.04	1.03	0.99	0.89	0.67	0.94
+Uzbekistan	Tashkent	1.06	1.05	1.05	0.99	0.89	0.75	0.99
+Vanuatu	Port Vila	1.05	1.04	0.98	0.95	0.97	0.99	0.99
+Venezuela	Caracas	1.05	1.05	1.03	0.99	0.92	0.84	0.99
+Vietnam	Ho Chi Minh City	1.09	1.11	1.09	1.03	0.88	0.66	1.01
+Wallis and Futuna(France)	Mata-Utu	1.05	1.09	1.13	1.05	0.89	0.93	1.04
+Western Sahara	Laayoune	1.04	1.02	1.01	0.97	0.88	0.79	0.99
+Yemen	Sana'a	1.05	1.04	1.03	1.05	0.84	0.84	1.02
+Zambia	Lusaka	1.03	1.01	1.00	1.01	0.87	0.78	1.00
+Zimbabwe	Harare	1.03	0.98	0.96	1.05	0.63	0.66	0.96
+Czechia	Prague	1.05	1.06	1.07	1.06	0.96	0.72	0.97
+Czechia	Krakow	1.05	1.06	1.07	1.06	0.96	0.72	0.97
+Germany	Munich	1.05	1.06	1.04	1.01	1.00	0.79	0.96
+Portugal	Oporto	1.05	1.05	1.06	0.97	0.84	0.66	0.90
+Italy	Milan	1.06	1.05	1.01	0.97	0.94	0.76	0.93
+Germany	Hamburg	1.05	1.06	1.04	1.01	1.00	0.79	0.96
+Spain	Barcelona	1.07	1.06	1.07	1.04	0.96	0.75	0.98
+France	Lyon	1.05	1.05	1.05	1.02	0.93	0.77	0.96
+Switzerland	Geneva	1.06	1.06	1.05	1.00	1.01	0.80	0.98
+Luxembourg	Luxembourg	1.06	1.06	1.05	1.05	1.05	0.82	1.02
+Czechia	Krakow	1.05	1.06	1.07	1.06	0.96	0.72	0.97
