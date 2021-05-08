@@ -1,0 +1,99 @@
+with    cte_flights as
+        
+        (
+            select  f.*,
+                    a.airport_name,
+                    a.city,
+                    a.longitude,
+                    a.latitude
+            from    dst_project.flights as f
+                    left join   dst_project.airports as a
+                                on a.airport_code = f.arrival_airport
+        ),
+        
+        cte_aircrafts as
+        
+        (
+            select  a.*,
+                    s1.business_seats_total,
+                    s2.economy_seats_total
+            from    dst_project.aircrafts as a
+                    left join   (select s1.aircraft_code,
+                                        count(s1.fare_conditions) as business_seats_total
+                                from    dst_project.seats as s1
+                                where   s1.fare_conditions = 'Business'
+                                group by    s1.aircraft_code) as s1
+                                on s1.aircraft_code = a.aircraft_code
+                    left join   (select s2.aircraft_code,
+                                        count(s2.fare_conditions) as economy_seats_total
+                                from    dst_project.seats as s2
+                                where   s2.fare_conditions = 'Economy'
+                                group by    s2.aircraft_code) as s2
+                                on s2.aircraft_code = a.aircraft_code
+            group by    a.aircraft_code,
+                        s1.business_seats_total,
+                        s2.economy_seats_total
+        ),
+        
+        cte_tickets as
+        
+        (
+            select  tf.flight_id,
+                    tf1.business_seats_occupied,
+                    tf1.business_paid,
+                    tf2.economy_seats_occupied,
+                    tf2.economy_paid,
+                    (tf1.business_paid + tf2.economy_paid) as total_paid
+            from    dst_project.ticket_flights as tf
+                    left join   (select tf1.flight_id,
+                                        tf1.fare_conditions,
+                                        count(tf1.fare_conditions) as business_seats_occupied,
+                                        sum(tf1.amount) as business_paid
+                                from    dst_project.ticket_flights as tf1
+                                where   tf1.fare_conditions = 'Business'
+                                group by    tf1.flight_id,
+                                            tf1.fare_conditions) as tf1
+                                on tf1.flight_id = tf.flight_id
+                    left join   (select tf2.flight_id,
+                                        tf2.fare_conditions,
+                                        count(tf2.fare_conditions) as economy_seats_occupied,
+                                        sum(tf2.amount) as economy_paid
+                                from    dst_project.ticket_flights as tf2
+                                where   tf2.fare_conditions = 'Economy'
+                                group by    tf2.flight_id,
+                                            tf2.fare_conditions) as tf2
+                                on tf2.flight_id = tf.flight_id
+            group by    tf.flight_id,
+                        tf1.business_seats_occupied,
+                        tf1.business_paid,
+                        tf2.economy_seats_occupied,
+                        tf2.economy_paid
+        )
+                                
+select  f.flight_id,
+        f.flight_no,
+        f.actual_departure,
+        f.actual_arrival,
+        f.departure_airport,
+        f.arrival_airport,
+        f.airport_name,
+        f.city,
+        f.longitude,
+        f.latitude,
+        f.aircraft_code,
+        a.model,
+        a.business_seats_total,
+        a.economy_seats_total,
+        t.business_seats_occupied,
+        t.business_paid,
+        t.economy_seats_occupied,
+        t.economy_paid,
+        (t.business_paid + t.economy_paid) as total_paid
+from    cte_flights as f
+        left join   cte_aircrafts as a
+                    on a.aircraft_code = f.aircraft_code
+        left join   cte_tickets as t
+                    on t.flight_id = f.flight_id
+where   f.departure_airport = 'AAQ'
+        and f.status != 'Cancelled'
+        and date_trunc('month', f.scheduled_departure) in ('2017-01-01','2017-02-01','2017-12-01')
